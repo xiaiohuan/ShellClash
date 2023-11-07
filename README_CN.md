@@ -65,7 +65,7 @@ export url='https://gh.jwsc.eu.org/master' && bash -c "$(curl -kfsSl $url/instal
 
 ```shell
 #GitHub源(可能需要代理)
-export url='https://raw.githubusercontent.com/juewuy/ShellClash/master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
+export url='https://raw.githubusercontent.com/xiaiohuan/ShellClash/master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
 ```
 或者
 ```shell
